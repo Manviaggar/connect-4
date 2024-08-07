@@ -1,4 +1,4 @@
-###  Try Connect-4
+#  Try Connect-4
 [Connect-4](https://66b39b2b3c26b317aa2ae162--fastidious-phoenix-f75d8b.netlify.app/)
 
 # Getting Started with Create React App
